@@ -367,16 +367,3 @@ Through this project, the following concepts were explored:
 - Streamlit Deployment
 - End-to-End ML Workflow
 
----
-
-# 👩‍💻 Author
-
-**Thanushree Sudhakar**
-
-B.Tech – Computer Science & Engineering  
-Specialization: AI & Data Science / IoT  
-REVA University
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
